@@ -1,4 +1,4 @@
-# RagApp
+# AskMyPDF
 
 A simple Retrieval-Augmented Generation (RAG) application built with ASP.NET Core, Qdrant vector database, and Google's Gemini AI. Upload documents (PDF or TXT) and ask questions about their content using AI-powered search and generation.
 
@@ -23,7 +23,7 @@ A simple Retrieval-Augmented Generation (RAG) application built with ASP.NET Cor
 1. **Clone the repository**:
    ```bash
    git clone <your-repo-url>
-   cd RagApp
+   cd AskMyPDF
    ```
 
 2. **Backend setup**:
